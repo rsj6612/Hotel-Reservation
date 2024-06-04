@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # HotelReservation
+## 블록체인 수업 팀프로젝트
+### 수업 시간 때 배운 솔리디티를 바탕으로 리액트와 메타마스크를 이용한 간단한 객실 예약 프로그램
 =======
 # Getting Started with Create React App
 
